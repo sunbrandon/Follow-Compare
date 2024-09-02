@@ -1,6 +1,6 @@
 import json
 
-with open('followers.json') as file:
+with open('followers_1.json') as file:
     followers_json = json.load(file)
 
 with open('following.json') as file:
